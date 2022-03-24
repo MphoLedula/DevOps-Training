@@ -1,9 +1,11 @@
 body{
  background-color: red;
+ text-align: center;
 }
 
-h1{
+h1{ 
+    font-family: 'Times New Roman', Times, serif;
     font-size: 40px;
-    color: hotpink;
+    color: white;
     margin-top: 7em;
 }
